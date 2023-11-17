@@ -27,7 +27,7 @@ function checkCredentials() {
     var password = document.getElementById("password").value;
 
     // Check if username and password are correct (replace with your own logic)
-    if (username === 'akiva' && password === 'akivataub' || username === 'tatty' && password === 'tatty'  || username === 'farke' && password === 'farke')  
+    if (username === 'akiva' && password === 'akivataub' || username === 'tatty' && password === 'tatty'  || username === 'moshe' && password === 'farkas' || username === 'rafi' && password === 'friedman' || username === 'volovi' && password === 'volvi')  
      
     {
         // Redirect to a different page
